@@ -1,3 +1,3 @@
 # Readme
 
-# stellarqr
+Caricamento iniziale
