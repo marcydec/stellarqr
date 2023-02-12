@@ -1,0 +1,3 @@
+# Readme
+
+Caricamento iniziale
