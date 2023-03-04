@@ -572,5 +572,13 @@ footer {
     color: #444;
   }
 }
+body {
+  background-color: #727272;
+  padding: 50px;
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #fff;
+  font-weight: 400;
+  text-align: justify;
+}
 
 /*# sourceMappingURL=style.css.map */
